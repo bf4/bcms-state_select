@@ -1,13 +1,13 @@
-Bcms-stateSelect
+bcms-state_select
 ================
 
-Introduction goes here.
-
+This is to use the state_select plugin for Rails (see http://github.com/bansalakhil/state_select)
+from browsercms.
 
 Example
 =======
 
-Example goes here.
+<%= f.cms_state_select :state %>
 
 
-Copyright (c) 2009 [name of plugin creator], released under the MIT license
+Copyright (c) 2009 Zach Dennis, Mutually Human Software, released under the MIT license
